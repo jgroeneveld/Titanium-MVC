@@ -1,4 +1,4 @@
-jg.db.registerModel('Sport', function(self) {
+jg.db.registerModel('News', function(self) {
 
   self.cleanDescription = function() {
     var htmlTagsRegex = /<([^>]*)>/g;
